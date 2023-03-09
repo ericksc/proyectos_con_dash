@@ -1,0 +1,4 @@
+pandas
+dash
+dash-html-components
+dash-bootstrap-components
